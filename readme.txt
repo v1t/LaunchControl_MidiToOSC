@@ -1,0 +1,1 @@
+Class for receiving OSC messages from MIDI -> OSC program for novation LaunchControl
